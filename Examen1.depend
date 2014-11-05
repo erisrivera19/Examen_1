@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1415198521 source:c:\users\alumno 01012012.servitag\downloads\estructuraexamen1-master\estructuraexamen1-master\evaluador.cpp
+	"Evaluador.h"
+
+1415198521 c:\users\alumno 01012012.servitag\downloads\estructuraexamen1-master\estructuraexamen1-master\evaluador.h
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<list>
+	<queue>
+	<algorithm>
+
